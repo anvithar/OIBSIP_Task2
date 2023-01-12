@@ -1,2 +1,2 @@
 # OIBSIP_Task2
-A Portfolio developed with HTML, CSS, and JS
+A PORTFOLIO developed with HTML, CSS, and JS
